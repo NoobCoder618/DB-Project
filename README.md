@@ -6,4 +6,4 @@ This would be my first 'real' coding project in about 15 years or so. It's proba
 
 To do:
 
-- [x] 
+- [x]  Create a table class with methods to
